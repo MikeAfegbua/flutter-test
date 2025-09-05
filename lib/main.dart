@@ -80,3 +80,19 @@ class _MyHomePageState extends State<MyHomePage> {
 
 // git merge "branch_name" - merges the specified branch into the current branch
 // git branch -d "branch_names(space separated)" - deletes the specified branch
+
+
+// GITHUB
+
+// echo "# flutter-test" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote show origin
+// git remote add origin <repository_url>
+// git push -u origin main
+
+
+// git pull origin <branch name>(optional)
+

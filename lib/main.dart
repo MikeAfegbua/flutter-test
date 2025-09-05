@@ -76,6 +76,7 @@ class _MyHomePageState extends State<MyHomePage> {
 // git checkout "branch_name" - switches to the specified branch
 // git checkout -b "branch_name" - creates and switches to a new branch
 
-// feat, fix, chore.
+// feat, fix, chore. - commit types
 
 // git merge "branch_name" - merges the specified branch into the current branch
+// git branch -d "branch_names(space separated)" - deletes the specified branch

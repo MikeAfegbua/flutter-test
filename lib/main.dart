@@ -71,3 +71,7 @@ class _MyHomePageState extends State<MyHomePage> {
 // git add . - stages all changes (new, modified, deleted files) for the next commit
 // git commit -m "first commit" - creates a new commit with a message
 // git branch - lists all branches in the repository
+
+// git branch "branch_name" - creates a new branch
+// git checkout "branch_name" - switches to the specified branch
+// git checkout -b "branch_name" - creates and switches to a new branch

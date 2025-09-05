@@ -95,4 +95,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
 
 // git pull origin <branch name>(optional)
+// git push origin <branch name>(optional)
+// git push --set-upstream origin home.dart
 

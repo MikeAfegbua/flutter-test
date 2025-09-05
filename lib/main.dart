@@ -78,4 +78,4 @@ class _MyHomePageState extends State<MyHomePage> {
 
 // feat, fix, chore.
 
-//
+//git merge "branch_name" - merges the specified branch into the current branch

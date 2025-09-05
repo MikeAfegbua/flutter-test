@@ -65,3 +65,9 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+// git init - initializes a local Git repository
+
+// git add . - stages all changes (new, modified, deleted files) for the next commit
+// git commit -m "first commit" - creates a new commit with a message
+// git branch - lists all branches in the repository

@@ -75,3 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
 // git branch "branch_name" - creates a new branch
 // git checkout "branch_name" - switches to the specified branch
 // git checkout -b "branch_name" - creates and switches to a new branch
+
+// feat, fix, chore.
+
+//
